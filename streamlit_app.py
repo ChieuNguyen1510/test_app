@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Chris Pro Stars", layout="centered", page_icon="⭐")
 
 st.markdown("<h1 style='text-align: center; color: white;'>Chris Pro</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; color: #ccc;'>LeePee</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #ccc;'>LeePee Chris Pro</p>", unsafe_allow_html=True)
 
 fig, ax = plt.subplots(figsize=(6, 4))
 ax.set_facecolor("black")
